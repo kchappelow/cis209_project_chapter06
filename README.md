@@ -1,4 +1,4 @@
-# Chapter 6 project - due 11/2/2016 7:15 p.m.
+# Chapter 6 project - due 11/1/2017 7:15 p.m.
 
 Problem: Validating credit cards
 
